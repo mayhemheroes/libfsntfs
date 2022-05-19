@@ -1,0 +1,8 @@
+project: rnshah9/libfsntfs
+target: libfsntfs
+image: ghcr.io/rnshah9/playground:libfsntfs
+tests:
+  - file://tests/data
+
+cmds:
+  - cmd: /usr/local/bin/fsntfsinfo @@
