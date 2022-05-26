@@ -1,6 +1,5 @@
 project: rnshah9/libfsntfs
-target: libfsntfs
-image: ghcr.io/rnshah9/playground:libfsntfs
+target: fsntfsinfo
 tests:
   - file://tests/data
 
