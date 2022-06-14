@@ -1,6 +1,6 @@
-project: rnshah9/libfsntfs
+project: libfsntfs
 target: fsntfsinfo
-tests:
+testsuite:
   - file://tests/data
 
 cmds:
