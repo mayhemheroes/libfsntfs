@@ -4,4 +4,4 @@ testsuite:
   - file://tests/data
 
 cmds:
-  - cmd: /usr/local/bin/fsntfsinfo @@
+  - cmd: /install/bin/fsntfsinfo @@
