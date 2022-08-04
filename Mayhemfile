@@ -1,0 +1,7 @@
+project: libfsntfs
+target: fsntfsinfo
+testsuite:
+  - file://tests/data
+
+cmds:
+  - cmd: /install/bin/fsntfsinfo @@
